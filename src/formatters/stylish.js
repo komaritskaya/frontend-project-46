@@ -39,12 +39,7 @@ const formatAsStylish = (diff) => {
         case EntryType.UNTOUCHED:
           return stringifyEntry(level, Label.UNTOUCHED, entry.key, entry.oldValue);
         case EntryType.NESTED:
-          return stringifyEntry(
-            level,
-            Label.NESTED,
-            entry.key,
-            iterate(entry.value, level + 1),
-          );
+          return stringifyEntry(level, Label.NESTED, entry.key, iterate(entry.value, level + 1));
         default:
           throw new Error('Unknown entry type');
       }
