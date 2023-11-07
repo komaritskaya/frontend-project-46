@@ -23,25 +23,25 @@
 ### Examples
 
 **Comparing two flat JSON structures by default (as stylish)**
-<script async id="asciicast-LuwHFeYFrosSZxBCdjHWNkG3c" src="https://asciinema.org/a/LuwHFeYFrosSZxBCdjHWNkG3c.js"></script>
+[![asciicast](https://asciinema.org/a/LuwHFeYFrosSZxBCdjHWNkG3c.svg)](https://asciinema.org/a/LuwHFeYFrosSZxBCdjHWNkG3c)
 
 **Comparing two flat YML structures by default (as stylish)**
-<script async id="asciicast-RTch6PQ9VGnxRyCE01jrecN5b" src="https://asciinema.org/a/RTch6PQ9VGnxRyCE01jrecN5b.js"></script>
+[![asciicast](https://asciinema.org/a/RTch6PQ9VGnxRyCE01jrecN5b.svg)](https://asciinema.org/a/RTch6PQ9VGnxRyCE01jrecN5b)
 
 **Comparing two multi-level JSON structures as stylish**
-<script async id="asciicast-X29jVF88hMFbKrk5sb1uG8HlO" src="https://asciinema.org/a/X29jVF88hMFbKrk5sb1uG8HlO.js"></script>
+[![asciicast](https://asciinema.org/a/X29jVF88hMFbKrk5sb1uG8HlO.svg)](https://asciinema.org/a/X29jVF88hMFbKrk5sb1uG8HlO)
 
 **Comparing two multi-level YML structures as stylish**
-<script async id="asciicast-gk2oJfJEps2beGcSjhRINa5CS" src="https://asciinema.org/a/gk2oJfJEps2beGcSjhRINa5CS.js"></script>
+[![asciicast](https://asciinema.org/a/gk2oJfJEps2beGcSjhRINa5CS.svg)](https://asciinema.org/a/gk2oJfJEps2beGcSjhRINa5CS)
 
 **Comparing two multi-level JSON structures as plain**
-<script async id="asciicast-14GM2DuZq189ISyZCuauWRdQB" src="https://asciinema.org/a/14GM2DuZq189ISyZCuauWRdQB.js"></script>
+[![asciicast](https://asciinema.org/a/14GM2DuZq189ISyZCuauWRdQB.svg)](https://asciinema.org/a/14GM2DuZq189ISyZCuauWRdQB)
 
 **Comparing two multi-level YML structures as plain**
-<script async id="asciicast-MchkKpyihaZKchCCejxZJzHn7" src="https://asciinema.org/a/MchkKpyihaZKchCCejxZJzHn7.js"></script>
+[![asciicast](https://asciinema.org/a/MchkKpyihaZKchCCejxZJzHn7.svg)](https://asciinema.org/a/MchkKpyihaZKchCCejxZJzHn7)
 
 **Comparing two multi-level JSON structures as json**
-<script async id="asciicast-cuQALfIc3Hf5j4sPu7J3FLCy2" src="https://asciinema.org/a/cuQALfIc3Hf5j4sPu7J3FLCy2.js"></script>
+[![asciicast](https://asciinema.org/a/cuQALfIc3Hf5j4sPu7J3FLCy2.svg)](https://asciinema.org/a/cuQALfIc3Hf5j4sPu7J3FLCy2)
 
 **Comparing two multi-level YML structures as json**
-<script async id="asciicast-xqvdjfulKmphpgVyIpti342OM" src="https://asciinema.org/a/xqvdjfulKmphpgVyIpti342OM.js"></script>
+[![asciicast](https://asciinema.org/a/xqvdjfulKmphpgVyIpti342OM.svg)](https://asciinema.org/a/xqvdjfulKmphpgVyIpti342OM)
