@@ -1,0 +1,36 @@
+{
+  "name": "@hexlet/code",
+  "version": "1.0.0",
+  "description": "A utility that compares two configuration files and shows a difference",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "npm jest --watch"
+  },
+  "bin": {
+    "gendiff": "bin/gendiff.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/komaritskaya/frontend-project-46.git"
+  },
+  "author": "Nadezhda Komaritckaia",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/komaritskaya/frontend-project-46/issues"
+  },
+  "homepage": "https://github.com/komaritskaya/frontend-project-46#readme",
+  "dependencies": {
+    "commander": "^10.0.1",
+    "fs": "0.0.1-security",
+    "js-yaml": "^4.1.0",
+    "lodash": "^4.17.21",
+    "path": "^0.12.7"
+  },
+  "devDependencies": {
+    "eslint": "^8.41.0",
+    "eslint-config-airbnb-base": "^15.0.0",
+    "eslint-plugin-import": "^2.27.5",
+    "jest": "^29.7.0"
+  }
+}
