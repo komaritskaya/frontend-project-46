@@ -18,4 +18,18 @@
 
 ### Examples
 
-**Comparing two flat JSON structures**
+**Comparing two flat JSON structures by default (as stylish)**
+
+**Comparing two flat YML structures by default (as stylish)**
+
+**Comparing two multi-level JSON structures as stylish**
+
+**Comparing two multi-level YML structures as stylish**
+
+**Comparing two multi-level JSON structures as plain**
+
+**Comparing two multi-level YML structures as plain**
+
+**Comparing two multi-level JSON structures as json**
+
+**Comparing two multi-level YML structures as json**
